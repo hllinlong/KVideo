@@ -458,7 +458,7 @@
     {
         "id": "ck",
         "name": "CK",
-        "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
+        "baseUrl": "https://ckzy.me/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 2
